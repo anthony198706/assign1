@@ -1,7 +1,6 @@
 # assign1
 '''Instructions:
 
-This assignment is due by 11:59 pm on Monday (03/21/2016).
 You should submit ONLY one doc (or docx or pdf) file named assign1.doc (or .docx or .pdf). Any other file format (like .py, .zip, .rar, etc.) is not allowed. This file should contain your python code for the program(s) and the screen shot(s) of your program's sample runs (with output). Make sure to put your python code correctly in this file (with correct indentation). If you have any text for the grader to read before grading, you can include it at the top of this file. 
 You must use Python 3.x to implement these programs.
 Your grade will be based on functionality (does the program do what it is suppose to do) and understandability (are the literals meaningful and is the code modular and well documented with appropriate comments).
